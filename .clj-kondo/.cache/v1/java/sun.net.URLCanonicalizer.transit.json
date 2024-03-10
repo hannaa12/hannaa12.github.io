@@ -1,0 +1,1 @@
+["^ ","~:members",["^ ","URLCanonicalizer",["~#set",[["^ ","~:flags",["^2",["~:method","~:public"]]]]],"canonicalize",["^2",[["^ ","^3",["^2",["^4","^5"]]]]],"hasProtocolName",["^2",[["^ ","^3",["^2",["^4","^5"]]]]],"isSimpleHostName",["^2",[["^ ","^3",["^2",["^4","~:protected"]]]]]]]

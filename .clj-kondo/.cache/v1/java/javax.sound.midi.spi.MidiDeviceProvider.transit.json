@@ -1,0 +1,1 @@
+["^ ","~:members",["^ ","isDeviceSupported",["~#set",[["^ ","~:flags",["^2",["~:method","~:public"]]]]],"getDeviceInfo",["^2",[["^ ","^3",["^2",["^4","^5","~:abstract"]]]]],"getDevice",["^2",[["^ ","^3",["^2",["^4","^5","^7"]]]]]]]
