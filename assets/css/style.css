@@ -347,7 +347,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     
 }
 .skill-content{padding: 50px 0 80px;}
-.single-skill-content{padding-top: 100px;}
+.single-skill-content{padding-top: 50px;}
 .section-heading h2 {
     font-size: 24px;
     font-weight: 600;
@@ -368,7 +368,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .barWrapper {
     font-weight: 400;
     font-size: 16px;
-    text-transform: uppercase;
+    padding-bottom: 10px;
 }
 .progress {
     border-radius:3px;
@@ -416,7 +416,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     padding: 50px 0 100px;
     border-top: 1px solid #e5ebf2;
 }
-.experience-content {padding-top: 100px;}
+.experience-content {padding-top: 50px;}
 .single-timeline-box {margin-bottom: 75px;}
 
 /*experience-time*/
