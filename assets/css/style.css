@@ -58,6 +58,8 @@ button {background: transparent;border: 0;}
 html,body{
     height: 100%;
 	position: relative;
+    scroll-behavior: smooth;
+    scroll-padding-top: 70px;
 }
 [placeholder]:focus::-webkit-input-placeholder {
   -webkit-transition: opacity 0.3s 0.3s ease; 
@@ -366,7 +368,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     left: 20px;
 }
 .barWrapper {
-    font-weight: 400;
+    font-weight: 300;
     font-size: 16px;
     padding-bottom: 10px;
 }
